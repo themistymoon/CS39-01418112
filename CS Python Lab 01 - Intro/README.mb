@@ -1,10 +1,10 @@
 ## CS Python Lab 01 - Intro
-##CS Python Lab 01 - Intro
-# ตัวอย่างการส่งงานด้วยระบบตรวจคำตอบอัตโนมัติ
-การตรวจคำตอบอัตโนมัติจะใช้วิธีตรวจสอบผลลัพธ์ที่ได้จากการเขียนโปรแกรม ช่องว่างสีเหลืองที่ปรากฏคือช่องที่ผู้เรียนจะต้องเขียนโปรแกรม โดยอาจเติมบางส่วนของโปรแกรม หรือเติมทั้งหมดของโปรแกรม
 
-โปรแกรมภาษา Python ที่ไม่สมบูรณ์นี้ ต้องการจะพิมพ์ผลลัพธ์ "Hello." และ "Goodbye." ให้แสดงทางหน้าจอ
+# Example Submission with Automatic Answer Checking System
 
+The automatic answer checking system verifies the results obtained from the programming task. The yellow blank spaces shown are the areas where the learner needs to write the program, either by completing parts of it or the entire program.
+
+The incomplete Python program below aims to print the outputs "Hello." and "Goodbye." on the screen.
 
 
 
