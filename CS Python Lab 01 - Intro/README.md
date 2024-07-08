@@ -10,9 +10,13 @@ The incomplete Python program below aims to print the outputs "Hello." and "Good
 ## Follow these steps:
 
 Try filling in the text "good" (including the double quotes) in the blank space, then click the Submit button at the bottom to submit your answer.
+
 Observe the small icon next to the Task name in the top left corner of the page.
+
 The icon  means that the submitted answer is being processed.
+
 After a moment, the icon may change to  indicating that the submitted answer is incorrect.
+
 Alternatively, the icon may change to  indicating that the submitted answer is correct.
 
 If you follow step 1, the icon should indicate that the answer is incorrect.
@@ -27,8 +31,8 @@ Characters within brackets [] indicate whether the submitted answer passed or fa
 
 P = Pass: The program submitted produces the expected result for the test case.
 
-- = Fail: The program submitted does not produce the expected result for the test case.
-- 
+"-" = Fail: The program submitted does not produce the expected result for the test case.
+
 S = Incorrect Spacing: The result is correct but has spacing issues (e.g., the expected result is "Hi there" but the program outputs "Hithere" or "Hi there").
 
 C = Incorrect Case: The result is correct but has incorrect casing (e.g., the expected result is "Hello" but the program outputs "hello").
