@@ -6,7 +6,7 @@ The automatic answer checking system verifies the results obtained from the prog
 
 The incomplete Python program below aims to print the outputs "Hello." and "Goodbye." on the screen.
 
-
+![Alt text](images/1.png)
 ## Follow these steps:
 
 Try filling in the text "good" (including the double quotes) in the blank space, then click the Submit button at the bottom to submit your answer.
