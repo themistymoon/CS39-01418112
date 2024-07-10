@@ -6,23 +6,24 @@ The automatic answer checking system verifies the results obtained from the prog
 
 The incomplete Python program below aims to print the outputs "Hello." and "Goodbye." on the screen.
 
-![Alt text](images/1.png)
+![Alt text](image/1.png)
 ## Follow these steps:
 
 Try filling in the text "good" (including the double quotes) in the blank space, then click the Submit button at the bottom to submit your answer.
 
 Observe the small icon next to the Task name in the top left corner of the page.
 
-The icon  means that the submitted answer is being processed.
+The icon ![Alt text](image/clock.png) means that the submitted answer is being processed.
 
-After a moment, the icon may change to  indicating that the submitted answer is incorrect.
+After a moment, the icon may change to ![Alt text](image/cross.png) indicating that the submitted answer is incorrect.
 
-Alternatively, the icon may change to  indicating that the submitted answer is correct.
+Alternatively, the icon may change to ![Alt text](image/check.png) indicating that the submitted answer is correct.
 
 If you follow step 1, the icon should indicate that the answer is incorrect.
 
 Next, fill in the text in the same yellow blank space with "Goodbye." (including the double quotes), and then click the Submit button again. This time, the result should indicate that the answer is correct.
 
+![Alt text](image/2.png)
 ## Details of the Results
 Some submissions may have more than one test case. Observe the top line next to the Task name for details.
 
